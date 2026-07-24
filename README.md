@@ -258,17 +258,6 @@ Object detection system using YOLOv8 and OpenCV to identify aviation runway debr
 
 > Note: github-profile-summary-cards themes are also preset (no raw hex) — `github_dark` is the nearest match to the palette.
 
-<br>
-
-### `$ snake --animation`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Jebaliya/Jebaliya/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-> Requires a one-time GitHub Action (`Platane/snk`) added to the `Jebaliya/Jebaliya` repo to generate this SVG on schedule — I'll wire this up when I push, since it needs a workflow file, not just the README.
 
 <br>
 
