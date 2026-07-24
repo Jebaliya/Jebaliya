@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,100:00D9FF&height=220&section=header&text=Jayveer%20Jebaliya&fontSize=48&fontColor=E4E9F7&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20RAG%20Systems%20%26%20Applied%20AI&descSize=18&descAlignY=58&descColor=00D9FF&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,100:00D9FF&height=220&section=header&text=Jayveer%20Jebaliya&fontSize=48&fontColor=E4E9F7&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20RAG%20Systems%20%26%20Applied%20AI&descSize=18&descAlignY=55&descColor=00D9FF&animation=fadeIn)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00D9FF&background=0A0E2700&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%7C+Data+Science+M.Tech+Student;Building+RAG+Systems+%26+Applied+AI;Python+%7C+PyTorch+%7C+LangChain+%7C+React.js;Exploring+Agentic+AI+Workflows;Open+to+AI%2FML+%26+GenAI+Roles" alt="Typing SVG" /></a>
 
