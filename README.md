@@ -208,8 +208,6 @@ Object detection system using YOLOv8 and OpenCV to identify aviation runway debr
 
 <br>
 
-### `$ unlock --trophies`
-
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Jebaliya&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
