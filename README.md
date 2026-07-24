@@ -230,8 +230,6 @@ Object detection system using YOLOv8 and OpenCV to identify aviation runway debr
 
 </div>
 
-> Note: github-profile-trophy doesn't support arbitrary hex input — `onedark` is the closest built-in dark/cyan-leaning theme to the Neural Terminal palette.
-
 <br>
 
 ### `$ activity --graph`
