@@ -238,9 +238,6 @@ Object detection system using YOLOv8 and OpenCV to identify aviation runway debr
 
 </div>
 
-> Note: github-profile-summary-cards themes are also preset (no raw hex) — `github_dark` is the nearest match to the palette.
-
-
 <br>
 
 ### `$ cat current-focus.yaml`
