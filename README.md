@@ -164,7 +164,7 @@ Object detection system using YOLOv8 and OpenCV to identify aviation runway debr
 
 | Stack | Scale | Impact |
 |---|---|---|
-| YOLOv8, OpenCV, Python | Custom small-object dataset | Published research; real-time, low-latency safety alerting |
+| YOLOv8, OpenCV, Python | Custom small-object dataset | real-time, low-latency safety alerting |
 
 [🔗 View Project](#)
 
@@ -184,20 +184,6 @@ Object detection system using YOLOv8 and OpenCV to identify aviation runway debr
 
 <br>
 
-### `$ cat achievements.md`
-
-<div align="center">
-
-| Achievement | Detail |
-|---|---|
-| 📄 Published Research | FOD Detection on Runways (YOLOv8) — research published |
-| 🎓 M.Tech Progress | SGPA 7.33, Rashtriya Raksha University (Data Science & ML) |
-| 🎓 B.Tech Completion | CGPA 7.55, R K University (Computer Engineering) |
-| 🧩 7 End-to-End AI/Web Projects | RAG, CV, NLP, and full-stack systems shipped independently |
-
-</div>
-
-<br>
 
 ### `$ education --list`
 
