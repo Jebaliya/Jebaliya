@@ -16,32 +16,31 @@ Open to: **AI/ML Engineer · Data Scientist · GenAI Engineer (Intern/Full-time)
 
 ---
 
-## Tech Stack
+## Skills
 
-**Languages & Frontend**
+**Programming Languages**
 
-![](https://skillicons.dev/icons?i=python,javascript,react,nodejs,html,css,git)
+![](https://skillicons.dev/icons?i=python,java,javascript,react,nodejs)
 
-**ML / DL**
+**Databases**
 
-![](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)
+![](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
 
-**Databases & Tools**
+**ML / DL Frameworks**
 
-![](https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,githubactions)
+![](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn)
 
----
+**NLP / LLMs:** RAG, LangChain, LangGraph, Langfuse, Transformers, Whisper, Hugging Face
 
-## Areas of Focus
+**Computer Vision:** YOLOv8, OpenCV
 
-| Domain | Details |
-|---|---|
-| RAG & LLM Systems | Hybrid retrieval (semantic + BM25), Groq/Gemini integration, agentic reasoning, Langfuse observability |
-| Computer Vision | Deepfake detection (ResNet50, EfficientNet-B0), YOLOv8 object detection, explainable visual outputs |
-| NLP / Speech | LLaMA-2 based voice assistants, Whisper ASR integration, safety filters, offline fallback design |
-| Full-Stack Development | React.js + Node.js/Flask backends, JWT auth, MongoDB, REST API integration |
-| Classical ML / Data Science | Scikit-learn diagnostic models, confidence scoring, Pandas/NumPy pipelines |
-| Deployment & Tooling | Docker, Streamlit, GitHub Actions, evaluation dashboards |
+**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Power BI
+
+**Deployment & Tools**
+
+![](https://skillicons.dev/icons?i=docker,github)
+
+Streamlit
 
 ---
 
