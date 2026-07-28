@@ -34,7 +34,6 @@ Open to: **AI/ML Engineer · Data Scientist · GenAI Engineer (Intern/Full-time)
 
 ![](https://skillicons.dev/icons?i=docker,github)
 
-Streamlit
 
 **NLP / LLMs:** RAG, LangChain, LangGraph, Langfuse, Transformers, Whisper, Hugging Face
 
