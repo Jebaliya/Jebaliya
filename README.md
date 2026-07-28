@@ -19,13 +19,16 @@ Open to: **AI/ML Engineer · Data Scientist · GenAI Engineer (Intern/Full-time)
 ## Tech Stack
 
 **Languages & Frontend**
-Python · JavaScript · React.js · Node.js · HTML/CSS
+
+![](https://skillicons.dev/icons?i=python,javascript,react,nodejs,html,css,git)
 
 **ML / DL**
-PyTorch · TensorFlow · Scikit-learn · OpenCV
+
+![](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)
 
 **Databases & Tools**
-PostgreSQL · MySQL · MongoDB · Docker · GitHub Actions · Git
+
+![](https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,githubactions)
 
 ---
 
@@ -44,33 +47,29 @@ PostgreSQL · MySQL · MongoDB · Docker · GitHub Actions · Git
 
 ## Featured Projects
 
-### AI Research Assistant — RAG pipeline with hybrid retrieval
-RAG pipeline ingesting PDF/DOCX/TXT files with overlapping-chunk splitting, persistent ChromaDB embeddings, and hybrid semantic + BM25 retrieval. Integrated Gemini via the Groq API for context-aware, cited, multi-turn answers with a step-by-step agentic reasoning workflow. Includes an evaluation dashboard, user authentication, Langfuse tracing, PDF chat export, and full Docker deployment.
-**Stack:** Python, Streamlit, ChromaDB, BM25, LLM APIs, Langfuse, Docker
+### [RAG based Chatbot](https://github.com/Jebaliya/RAG-based-Chatbot) · [Demo](https://rag-based-chatbot1.streamlit.app/)
+Hybrid RAG chatbot combining ChromaDB semantic search and BM25 keyword search with cross-encoder reranking. Generates citation-backed answers via the Groq API with automated hallucination checking, Phoenix tracing, and Ragas evaluation; containerized with Docker and deployed on Streamlit Cloud.
+**Stack:** Python, Groq API, ChromaDB, Phoenix, Streamlit, Docker
 
-### Deepfake Detection — Explainable real vs. AI-generated image classifier
-End-to-end pipeline that classifies real vs. AI-generated images and highlights manipulated regions for explainability. Trained and benchmarked ResNet50 against EfficientNet-B0 to compare the speed/accuracy trade-off.
+### [AI Research Assistant](https://github.com/Jebaliya/ai-research-assistant) · [Demo](https://ai-research-assistant-1.streamlit.app/)
+RAG pipeline ingesting PDF/DOCX/TXT documents with hybrid semantic + BM25 retrieval over a persistent ChromaDB store. Uses Gemini via the Groq API for cited, multi-turn answers with agentic step-by-step reasoning, plus an evaluation dashboard, auth, Langfuse tracing, and Docker deployment.
+**Stack:** Python, Streamlit, ChromaDB, BM25, LLM, Langfuse, Docker
+
+### [Deepfake Detection](https://github.com/Jebaliya/deep-fake)
+End-to-end pipeline that classifies real vs. AI-generated images, analyzes patterns to identify source generators, and highlights manipulated regions for explainability. Trained and compared ResNet50 vs. EfficientNet-B0 for the best speed/accuracy trade-off.
 **Stack:** Python, PyTorch, Streamlit, OpenCV, NumPy, ResNet50, EfficientNet-B0
 
-### Voice Shopping Assistant — Voice/text shopping agent on LLaMA-2 (13B)
-Shopping assistant supporting voice and text queries, powered by a locally served LLaMA-2 (13B) model via Ollama. FastAPI backend connected to a Streamlit frontend for near-instant speech-to-response, with ASR confidence thresholds, safety filters, and offline fallback handling.
-**Stack:** LLaMA-2 (13B), Ollama, FastAPI, Streamlit
-
-### Medical Diagnosis System — Symptom-based disease prediction
-Captures user symptoms and predicts probable diseases with confidence scores. Supports uploaded medical reports for added context and generates downloadable, personalized precaution reports.
+### [Medical Diagnosis System](https://github.com/Jebaliya/AI-Powered-Medical-Diagnosis-System) · [Demo](https://medical-diagnosis-system-by-ai-powered.streamlit.app/)
+Captures user symptoms, predicts probable diseases with confidence scores, supports report uploads for added context, and generates downloadable, personalized precaution reports.
 **Stack:** Python, Streamlit, Scikit-learn, Pandas, NumPy, PyPDF2
 
-### AI-Powered PM Internship Recommendation System
-Processes user profiles and resumes, extracts relevant skills via TF-IDF, and matches candidates to internship opportunities through an interactive React interface.
-**Stack:** Python, Flask, React.js, MongoDB, TF-IDF, Scikit-learn
+### [AI-Powered PM Internship Recommendation System](https://github.com/Jebaliya/AI-Internship)
+Processes user profiles and resumes, extracts relevant skills, and matches candidates to internship opportunities through an interactive interface.
+**Stack:** Python, Flask, React.js, MongoDB, TF-IDF
 
-### Club Management Platform
-Full platform for user authentication, role/permission management, club memberships, event registrations, and announcement-based content sharing, with an interactive dashboard.
+### [Club Management (CampusLink)](https://github.com/Jebaliya/CampusLink)
+Platform handling user authentication, roles and permissions, club memberships, event registrations, and announcement-based content sharing through an interactive dashboard.
 **Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS
-
-### Foreign Object Debris (FOD) Detection on Runways
-Real-time object detection system using YOLOv8 and OpenCV to identify runway debris, trained on a custom small-object dataset. Enables continuous runway monitoring with low-latency alerts. **Research published.**
-**Stack:** YOLOv8, OpenCV, Python
 
 ---
 
