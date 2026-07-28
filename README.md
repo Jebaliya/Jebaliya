@@ -30,17 +30,18 @@ Open to: **AI/ML Engineer · Data Scientist · GenAI Engineer (Intern/Full-time)
 
 ![](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn)
 
+**Deployment & Tools**
+
+![](https://skillicons.dev/icons?i=docker,github)
+
+Streamlit
+
 **NLP / LLMs:** RAG, LangChain, LangGraph, Langfuse, Transformers, Whisper, Hugging Face
 
 **Computer Vision:** YOLOv8, OpenCV
 
 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Power BI
 
-**Deployment & Tools**
-
-![](https://skillicons.dev/icons?i=docker,github)
-
-Streamlit
 
 ---
 
