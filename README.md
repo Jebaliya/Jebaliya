@@ -1,6 +1,10 @@
-# Hi, I'm Jayveer Jebaliya
+<div align="center">
 
-**AI/ML Engineer | Data Science M.Tech Student**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,100:00D9FF&height=180&section=header&text=Jayveer%20Jebaliya&fontSize=42&fontColor=E4E9F7&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20RAG%20Systems%20and%20Applied%20AI&descSize=16&descAlignY=55&descColor=00D9FF)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+RAG+Systems+%26+Applied+AI;Python+%7C+PyTorch+%7C+LangChain+%7C+React.js;Open+to+AI%2FML+%26+GenAI+Roles" alt="Typing SVG" /></a>
+
+</div>
 
 I build retrieval-augmented systems, computer vision pipelines, and full-stack AI applications — from RAG chatbots with hybrid search to deepfake detectors and runway-safety object detection. I'm focused on taking models past the notebook into deployable, observable products.
 
@@ -108,3 +112,5 @@ R.K. University, Rajkot · 2021 – 2025
 ---
 
 📫 Reach me at **jayveerjebaliya17@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/jayveer-jebaliya-616305342).
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,100:00D9FF&height=100&section=footer)
