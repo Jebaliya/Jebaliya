@@ -10,7 +10,7 @@ I build retrieval-augmented systems, computer vision pipelines, and full-stack A
 
 📍 Gujarat, India
 📧 [jayveerjebaliya17@gmail.com](mailto:jayveerjebaliya17@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/jayveer-jebaliya-616305342) · [GitHub](https://github.com/Jebaliya)
+🔗 [LinkedIn](https://linkedin.com/in/jayveer-jebaliya-616305342) · [portfolio](https://portfolio-jayveer.vercel.app/)
 
 Open to: **AI/ML Engineer · Data Scientist · GenAI Engineer (Intern/Full-time)**
 
